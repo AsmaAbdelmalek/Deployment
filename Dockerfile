@@ -2,4 +2,4 @@ FROM ubuntu
 
 RUN apt-get update
 
-CMD ["echo", "Testing deployment..."]
+CMD ["echo", "Testing deployment....."]
